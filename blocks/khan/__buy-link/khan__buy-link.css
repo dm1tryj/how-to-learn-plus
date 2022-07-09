@@ -4,4 +4,5 @@ font-size: 30px;
 color: #2f80ed;
 margin-left: 48px;
 text-decoration: none;
+align-self: flex-start;
 }
