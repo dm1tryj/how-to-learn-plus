@@ -1,5 +1,8 @@
 .cards__item {
-  max-width:175px;
-  padding: 60px 40px 0;
-  margin: 0;
+  max-width:240px;
+  padding-right: 100px;
+  padding-top: 60px;
   }
+.cards__item:nth-of-type(3n) {
+  padding-right: 0;
+}
