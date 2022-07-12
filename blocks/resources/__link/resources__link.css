@@ -3,4 +3,8 @@
   height: 38px;
   display: flex;
   justify-content: center;
+  opacity: 1;
+}
+.resources__link:hover {
+  opacity: .5;
 }
